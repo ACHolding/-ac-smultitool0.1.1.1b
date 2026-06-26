@@ -16,7 +16,7 @@ echo  [1] Port Scanner
 echo  [2] Grabify-style Link Tracker
 echo  [3] DNS Cleaner
 echo  [4] WiFi Scanner
-echo  [5] Slowloris White-Hat Lab
+echo  [5] Slowloris Attack
 echo  [6] About
 echo  [0] Exit
 echo.
